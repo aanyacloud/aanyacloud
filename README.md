@@ -43,7 +43,7 @@
 
 ## 🎤 Research & Presentations
 
-* 📍 Presented at **International Conference (ICESR, Bangalore)**
+* 📍 Presented at **International Conference (ICESR, IIsc Bangalore)**
 * 🧠 Topic: ESR
 * 💡 Focused on research-driven problem solving
 
