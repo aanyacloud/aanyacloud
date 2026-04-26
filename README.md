@@ -1,7 +1,5 @@
 # 👋 Hi, I'm Aanya
 
-![Profile Views](https://komarev.com/ghpvc/?username=aanyacloud\&color=blue\&style=for-the-badge)
-
 ---
 
 ## ✨ About Me
