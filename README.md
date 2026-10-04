@@ -39,27 +39,37 @@
 ![HTML](https://img.shields.io/badge/HTML-orange?style=for-the-badge\&logo=html5\&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-blue?style=for-the-badge\&logo=css3\&logoColor=white)
 
----
+## Featured Projects
 
-## 🚀 Featured Projects
+### RoadWatch AI — Civic Infrastructure Monitoring Platform
 
-### 🔥 Signal-Aware Human Activity Recognition with Risk Intelligence
-
-* ML + Signal Processing + Decision Intelligence
-* Multi-model comparison (SVM, RF, XGBoost)
-* Feature engineering + FFT-based analysis
-* Risk prediction using clustering
-
----
-
-### ❤️ Intelligent ECG Signal Processing System
-
-* Adaptive ECG denoising using PSD-based filtering
-* Real-time signal processing (HR & HRV)
-* Signal Quality Index (SQI) analysis
-* Deployed using Streamlit
+- AI-assisted road issue reporting and infrastructure monitoring
+- GPS-enabled citizen complaint reporting
+- Interactive GIS visualization using Leaflet and OpenStreetMap
+- Authority dashboard for complaint management and road monitoring
+- Contractor and budget transparency modules
+- React, Vite, Tailwind CSS, Leaflet, Firebase
 
 ---
+
+### Intelligent ECG Signal Processing System
+
+- Adaptive ECG denoising using PSD-based filtering
+- Real-time ECG signal processing for heart rate and HRV analysis
+- Signal Quality Index (SQI) evaluation
+- Signal processing and feature extraction for ECG analysis
+- Streamlit-based deployment
+
+---
+
+### P-Club — Photography Club Website
+
+- Responsive photography club website
+- Frontend visual redesign with a custom design system
+- Photography gallery, workshops, events, and club information
+- Improved color palette, spacing, typography, and visual consistency
+- HTML, CSS, JavaScript
+- Deployed using Netlify
 
 ## 🌍 Open Source
 
